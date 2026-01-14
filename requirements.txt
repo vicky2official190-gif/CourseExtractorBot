@@ -1,0 +1,15 @@
+pyrogram
+tgcrypto
+requests
+aiohttp
+cloudscraper
+yt-dlp
+beautifulsoup4
+pycryptodome
+python-dotenv
+httpx
+pydantic
+rich
+marshmallow
+urllib3
+certifi

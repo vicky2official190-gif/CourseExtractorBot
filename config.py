@@ -13,7 +13,7 @@ class Config:
     OWNER_ID = int(os.environ.get("OWNER_ID", "1822182996"))
 
 # Asaan access ke liye direct variables
-API_ID = Config.API_ID
-API_HASH = Config.API_HASH
-BOT_TOKEN = Config.BOT_TOKEN
-OWNER_ID = Config.OWNER_ID
+API_ID = 20056632
+API_HASH ="7de392e5406c4eccbc031fc390481730"
+BOT_TOKEN = "6545533388:AAEMGYmu28Jkwz_P1VIIEkV3SZQotAf2TjM"
+OWNER_ID = "1822182996"

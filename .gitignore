@@ -1,0 +1,14 @@
+# Sensitive Data
+.env
+config.py
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# Local Logs
+*.log
